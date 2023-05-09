@@ -2,9 +2,9 @@
 
 ## íNDICE
 
-* [1. Intro](#)
-* [2. Qué construí](#)🛠
-* [3. Objetivo del proyecto](#)
+* ✨[1. Intro](#)🧐
+* ✨[2. Qué construí](#)🛠
+* ✨[3. Objetivo del proyecto](#)🎯
 
 ****
 
